@@ -1,5 +1,6 @@
 # LearnFusion_Social-Media-Dashboard
 Developed a Social Media Dashboard that tracks and displays key metrics from various social media platforms. The dashboard provides a comprehensive overview of followers, likes, and other engagement statistics.
+
 Technologies Used:
 1. HTML: Structured the dashboard with elements for displaying social media metrics.
 2. CSS: Styled the dashboard to ensure a clean, modern, and responsive design.
